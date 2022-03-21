@@ -3,7 +3,7 @@ I am interested in sharing my creations with the world whilst selflessly being a
 The more we learn, the more better become.
 
 👀 I’m interested in ...
-- Reverse Engineering, Microsoft Auto Assembly, Kernel Programming, C++, SQL, Visual Studio, Debugging, Virtual Machines. 
+Reverse Engineering, Microsoft Auto Assembly, Kernel Programming, C++, SQL, Visual Studio, Debugging, Virtual Machines. 
 
  
 🌱 I’m currently learning ... a tiny fraction of it all. 
